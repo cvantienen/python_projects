@@ -5,6 +5,8 @@
 # Purpose: Draw two connecting diamonds
 # Notes: draw two squares touching using turtle
 
+#import turtle
+
 import turtle
 
 # input section 
