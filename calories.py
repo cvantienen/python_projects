@@ -1,4 +1,4 @@
-# lab 4 Problem 1
+
 # calories.py
 # Author: Cody Vantienen
 # Date: 11/09/2020
