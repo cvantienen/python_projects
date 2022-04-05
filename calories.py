@@ -1,7 +1,7 @@
 
 # calories.py
 # Author: Cody Vantienen
-# Date: 11/09/2020
+# Date: 03/20/22
 # Purpose - The purpace of this program is to create a loop to display the number of 
 # calories burned after 10, 15, 20, 25, and 30 minuetes.
 # Notes/Info: Running on a tredmill you burn 4.2 caolries per minute. 
